@@ -1,0 +1,14 @@
+########################Motor list for SACLA XAFS########################
+# 'eqid': the motor whose position you want to know.
+#  This file must be written according to the yaml format.
+#  Do not change the key name 'eqid'
+# 	[Settings on March 18, 2016]
+# 	   for delay = "xfel_bl_3_st_2_motor_1"
+# 	   for tilt of mirror = "xfel_bl_3_st_2_motor_6"
+# 	   for rotation of mirror = "xfel_bl_3_st_2_motor_5"
+#########################################################################
+eqid:
+ - xfel_bl_3_st_2_motor_1
+ - xfel_bl_3_st_2_motor_2
+ - xfel_bl_3_st_2_motor_5
+ - xfel_bl_3_st_2_motor_6
